@@ -52,19 +52,19 @@ Exploratory data analysis (EDA)
 Visualization using Matplotlib (box plots, bar charts, scatter plots, histogram)
 
 # Key Findings
-1️⃣ Distribution of IPC Phase 3+
+1️ Distribution of IPC Phase 3+
 
 IPC Phase 3+ prevalence shows substantial variation across ASAL counties, ranging from low to high levels of acute food insecurity.
 This heterogeneity supports treating IPC Phase 3+ as a continuous variable, as dichotomizing it would result in loss of information.
 
-2️⃣ Food Insecurity and Physical Violence
+2️ Food Insecurity and Physical Violence
 
 A weak positive correlation was observed between IPC Phase 3+ and physical violence:
 Correlation coefficient (r ≈ 0.17). This suggests:
 Counties with higher food insecurity tend to report slightly higher physical violence
 The association is modest.Food insecurity alone does not fully explain variation in violence outcomes
 
-3️⃣ ASAL vs Non-ASAL Comparison
+3️ ASAL vs Non-ASAL Comparison
 
 Average prevalence of both physical and sexual violence was slightly higher in non-ASAL counties compared to ASAL counties.This indicates:
 Higher food insecurity does not automatically translate to higher average violence levels.

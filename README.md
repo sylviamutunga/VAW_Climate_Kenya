@@ -99,6 +99,7 @@ County-level aggregation may mask within-county heterogeneity.
 This project highlights how data science can be applied to gender, health, and climate resilience challenges in development and humanitarian settings. It emphasizes ethical handling of sensitive data and responsible interpretation of statistical results.
 
 Data Science Project
+
 Focus: Gender, climate vulnerability, and structural inequality
 
 

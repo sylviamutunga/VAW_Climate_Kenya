@@ -5,24 +5,26 @@ This project examines the relationship between food insecurity (IPC Phase 3+),Dr
 
 # The analysis explores:
 
-Distribution of acute food insecurity (IPC Phase 3+)
+Distribution of acute food insecurity (IPC Phase 3+).
 
-Association between food insecurity and physical violence
+Association between food insecurity and physical violence.
 
-Differences in violence prevalence between ASAL and non-ASAL counties
+Differences in violence prevalence between ASAL and non-ASAL counties.
 
-Whether IPC Phase 3+ should be treated as a continuous or categorical variable
+Whether IPC Phase 3+ should be treated as a continuous or categorical variable.
 
-This project aims to contribute to understanding how structural vulnerability may intersect with gender-based violence outcomes.
-
-The project demonstrates the application of Python for data cleaning, exploratory analysis, visualization, and basic statistical interpretation in a humanitarian and public health context.
+This project aims to contribute to understanding how structural vulnerability may intersect with gender-based violence outcomes.It also demonstrates the application of Python for data cleaning, exploratory analysis, visualization, and basic statistical interpretation in a humanitarian and public health context.
 
 # Research Questions
 
 How does IPC Phase 3+ prevalence vary across ASAL counties?
+
 Is there an association between food insecurity and physical violence?
+
 Do ASAL counties experience higher levels of violence compared to non-ASAL counties?
+
 Should IPC Phase 3+ be modeled as a continuous indicator?
+
 How does recent physical violence against women vary by drought severity?
 
 # Data Sources
@@ -71,10 +73,13 @@ Structural and contextual factors likely play a role beyond food insecurity alon
 
 The repository includes:
 
-Distribution of IPC Phase 3+ in ASAL counties
-Scatter plot of IPC Phase 3+ vs Physical Violence
-Box plot of Physical Violence by Drought Level
-Bar chart comparing VAW in ASAL vs Non-ASAL counties
+Distribution of IPC Phase 3+ in ASAL counties.
+
+Scatter plot of IPC Phase 3+ vs Physical Violence.
+
+Box plot of Physical Violence by Drought Level.
+
+Bar chart comparing VAW in ASAL vs Non-ASAL counties.
 
 All figures are located in the /figures folder.
 

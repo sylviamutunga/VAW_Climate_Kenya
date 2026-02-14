@@ -56,6 +56,7 @@ Visualization using Matplotlib (box plots, bar charts, scatter plots, histogram)
 
 IPC Phase 3+ prevalence shows substantial variation across ASAL counties, ranging from low to high levels of acute food insecurity.
 This heterogeneity supports treating IPC Phase 3+ as a continuous variable, as dichotomizing it would result in loss of information.
+
 2️⃣ Food Insecurity and Physical Violence
 
 A weak positive correlation was observed between IPC Phase 3+ and physical violence:

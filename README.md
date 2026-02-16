@@ -70,6 +70,10 @@ Average prevalence of both physical and sexual violence was slightly higher in n
 Higher food insecurity does not automatically translate to higher average violence levels.
 Structural and contextual factors likely play a role beyond food insecurity alone.
 
+3️ Physical Violence and Drought levels
+
+The plot reveals a somewhat counter intuitive pattern: counties in the Normal phase exhibit a higher median percentage of physical violence than those in the Alert or Alarm phases. However, the Alarm phase shows greater variability, indicating that while average levels may not be highest, violence outcomes in these counties appear more dispersed and less consistent.
+
 # Visualizations
 
 The repository includes:

@@ -74,9 +74,14 @@ Structural and contextual factors likely play a role beyond food insecurity alon
 
 The repository includes:
 
-## Distribution of IPC Phase 3+ in ASAL counties.
+## Distribution of IPC Phase 3+ in Counties
 
-![Histogram](Figures/histogram_ food _insecurity.png)
+## IPC Distribution
+
+![Histogram](Figures/histogram_food_insecurity.png)
+
+## IPC vs Physical Violence 
+
 
 ## Scatter plot of IPC Phase 3+ vs Physical Violence.
 

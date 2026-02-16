@@ -78,15 +78,17 @@ The repository includes:
 
 ![Histogram](Figures/histogram_food_insecurity.png)
 
-
 ## Scatter plot of IPC Phase 3+ vs Physical Violence.
 
 ![Scatter Plot](Figures/scatter_food_insecurity.png)
 
-Box plot of Physical Violence by Drought Level.
+## Box plot of Physical Violence by Drought Level.
 
-Bar chart comparing VAW in ASAL vs Non-ASAL 
+![Box Plot](Figures/box_plot_drought.png)
 
+## Bar chart comparing VAW in ASAL vs Non-ASAL 
+
+![Bar Chart](Figures/Bar_vaw_counties.png)
 
 All figures are located in the /figures folder.
 

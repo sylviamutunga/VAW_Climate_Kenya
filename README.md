@@ -78,7 +78,8 @@ The repository includes:
 
 ## IPC Distribution
 
-![Histogram](Figures/histogram_food_insecurity.png)
+![Histogram of Food Insecurity](Figures/histogram_ food _insecurity.png)
+
 
 ## IPC vs Physical Violence 
 

@@ -76,11 +76,11 @@ The repository includes:
 
 ## Distribution of IPC Phase 3+ in ASAL counties.
 
-![Histogram](figures/histogram_food_insecurity.png)
+![Histogram](Figures/histogram_food_insecurity.png)
 
 ## Scatter plot of IPC Phase 3+ vs Physical Violence.
 
-![Scatter Plot](figures/scatter_food_insecurity.png)
+![Scatter Plot](Figures/scatter_food_insecurity.png)
 
 Box plot of Physical Violence by Drought Level.
 
